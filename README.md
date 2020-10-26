@@ -7,7 +7,7 @@ Your task in this homework is to implement the Monte Carlo Tree Search used in *
 
 Also pay attention:
  - Do not copy code from MCTSBase.py into your hw2.py file. Simply import the symbols from MCTSBase.
- - Do not change non-abstract methods in the .py files. 
+ - Do not change non-abstract methods in the provided .py files. 
  - Read the documentation on the abstract method carefully. When you override a method, you must use the same function signature. When coding, you should have a good understanding on what parameter will be passed to that method and what we expect that method to return. If these are not followed, the tree search process cannot run.
 
 ## Submit your work
