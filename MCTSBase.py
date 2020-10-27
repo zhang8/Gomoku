@@ -79,7 +79,7 @@ class MCTSBase:
         '''
         Find and return the node corresponding to the standardState in the search tree
         :param standardState: board state
-        :return: tree node
+        :return: tree node (None if the state is new, i.e., we need to expand the tree by adding a node corresponding to the state)
         '''
         pass
 
